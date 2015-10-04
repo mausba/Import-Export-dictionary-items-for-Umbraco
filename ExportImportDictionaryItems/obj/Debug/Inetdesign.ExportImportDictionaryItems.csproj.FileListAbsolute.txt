@@ -1,0 +1,9 @@
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\businesslogic.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\cms.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\interfaces.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\Umbraco.Core.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\umbraco.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\Inetdesign.ExportImportDictionaryItems.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\bin\Debug\Inetdesign.ExportImportDictionaryItems.pdb
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\obj\Debug\Inetdesign.ExportImportDictionaryItems.dll
+D:\Inet\UmbracoPackages\ExportImportDictionaryItems\obj\Debug\Inetdesign.ExportImportDictionaryItems.pdb
