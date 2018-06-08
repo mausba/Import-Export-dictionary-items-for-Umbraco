@@ -1,0 +1,12 @@
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\Inetdesign.ExportImportDictionaryItems.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\Inetdesign.ExportImportDictionaryItems.pdb
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\businesslogic.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\cms.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\interfaces.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\Umbraco.Core.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\bin\Debug\umbraco.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\obj\Debug\Solution.csprojAssemblyReference.cache
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\obj\Debug\Solution.csproj.CopyComplete
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\obj\Debug\Inetdesign.ExportImportDictionaryItems.dll
+D:\GitHub\umbraco-dictionary-export-import\ExportImportDictionaryItems\obj\Debug\Inetdesign.ExportImportDictionaryItems.pdb
