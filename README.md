@@ -1,4 +1,4 @@
 # Import/Export dictionary items from umbraco
-Right click on dictionary node from umbraco backoffice to get two context menu for importing/exporting.
+Right click on dictionary node under umbraco backoffice to get the two context menus for importing/exporting dictionary items.
 
 ![alt text](Images/screenshot.png)
